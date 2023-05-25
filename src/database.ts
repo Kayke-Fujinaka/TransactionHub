@@ -5,4 +5,5 @@ export const knex = setupKnex({
   connection: {
     filename: './mydb.sqlite',
   },
+  useNullAsDefault: true,
 })
