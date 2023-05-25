@@ -3,6 +3,8 @@ node_modules
 
 # Enviroment
 .env
+.env.test
 
 # Database
 mydb.sqlite
+test.sqlite
