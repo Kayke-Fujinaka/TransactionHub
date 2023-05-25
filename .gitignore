@@ -2,7 +2,7 @@
 node_modules
 
 # Enviroment
-.env.local
+.env
 
 # Database
 mydb.sqlite
